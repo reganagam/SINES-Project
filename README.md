@@ -1,4 +1,4 @@
-### The project to compare between PCA and Naive Bayes for classification problem.
+### The project to compare between LDA and Naive Bayes for classification problem.
 #### For this project we got our dataset from UCI Machine Learning Repository.
 ## [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 ---
